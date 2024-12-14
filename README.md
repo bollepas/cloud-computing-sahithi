@@ -30,6 +30,9 @@ The dataset was sourced from the City of Vancouver open data portal. It includes
   - Standardizing formats (e.g., dates and numerical fields)
 - A reusable recipe was created in DataBrew to automate the cleaning process.
 
+  ![image](https://github.com/user-attachments/assets/4040c233-a266-4e9d-b141-6e27b5c04a5c)
+
+
 ### 3. ETL Pipeline Design
 - Designed and executed an ETL pipeline in AWS Glue:
   - Dropped irrelevant columns
