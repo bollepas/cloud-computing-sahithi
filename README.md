@@ -52,5 +52,9 @@ The dataset was sourced from the City of Vancouver open data portal. It includes
   - Internal (system integration)
   - External (analysis and reporting)
 
+
+    ![image](https://github.com/user-attachments/assets/91a6937d-21ec-46fe-aa89-1bf21cd1de90)
+
+
 ## Conclusion
 The exploratory analysis provided a structured and efficient approach to understanding the City of Vancouver’s 2025 capital project budgets. By leveraging AWS services for data profiling, cleaning, and transformation, the analysis highlighted significant budget trends and variances across service categories. The insights derived from this analysis can assist in strategic decision-making and resource allocation, ensuring a balanced approach to financial planning. Additionally, the reusable ETL pipelines and recipes ensure scalability for future analyses, enhancing operational efficiency for budgetary evaluations.
