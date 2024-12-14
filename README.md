@@ -37,6 +37,9 @@ The dataset was sourced from the City of Vancouver open data portal. It includes
   - Standardized schema for consistency
 - Merged datasets for deeper insights, comparing 2025 budgets with historical plans.
 
+  ![image](https://github.com/user-attachments/assets/9f9c907b-cc3d-4124-bb4f-92c4682d1f1c)
+
+
 ## Tools and Technologies
 - **AWS Services:** S3, Glue DataBrew, and Glue ETL.
 - **Data Storage:** Organized bucket structure for raw and transformed data.
@@ -53,7 +56,7 @@ The dataset was sourced from the City of Vancouver open data portal. It includes
   - External (analysis and reporting)
 
 
-    ![image](https://github.com/user-attachments/assets/9f9c907b-cc3d-4124-bb4f-92c4682d1f1c)
+    
 
 
 
