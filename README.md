@@ -1,5 +1,4 @@
-# cloud-computing-sahithi
-# README: Exploratory Analysis of Vancouver’s 2025 Capital Budget Allocation
+# Exploratory Analysis of Vancouver’s 2025 Capital Budget Allocation
 
 ## Project Description
 Exploratory Analysis of the 2025 Multi-Year Capital Project Budget
